@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @DIMP
+- 👋 Hi, I’m DIMP Dartis
 - ❤️ My full name is Vuong Sy Hanh
 - 📫 Contact:
 - My FB: https://www.fb.me/vuongsyhanh
