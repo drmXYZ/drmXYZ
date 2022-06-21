@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m DIMP Dartis
 - ❤️ My full name is Vuong Sy Hanh
+- 😔 We've grown together through our worst days, so you'll be the last thing I lose.
 - 📫 Contact:
 - My FB: https://www.fb.me/vuongsyhanh
 - My telegram: https://t.me/ssyhanh
