@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m DIMP Dartis.
 - ❤️ My real name is Sy Hanh.
-- 😔 I loved her.
 - 📫 Contact:
 - My FB: https://www.fb.me/vuongsyhanh
 - My telegram: https://t.me/ssyhanh
