@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m DIMP Dartis.
+- 👋 Hi, I’m DRM
 - ❤️ My real name is Sy Hanh.
 - 📫 Contact:
 - My FB: https://www.fb.me/vuongsyhanh
