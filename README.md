@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m drm Vozer
+- 👋 Hi, I’m drm
 - ❤️ My real name is Sy Hanh.
 - 📫 Contact:
 - FB: https://www.fb.me/vuongsyhanh
