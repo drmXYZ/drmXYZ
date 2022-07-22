@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m drm
-- Information:<br/>
+- Information:
 > fullname: VUONG SY HANH<br/>
 > address: Bac Tu Liem, Hanoi, Vietnam<br/>
 > tel: 0945550041 && 0965397196<br/>
