@@ -4,7 +4,7 @@
 - Information:
 > fullname: VUONG SY HANH<br/>
 > address: Bac Tu Liem, Hanoi, Vietnam<br/>
-> tel: 0945550041 && 0965397196<br/>
+> tel: 0945550041 ft. 0965397196<br/>
 > email: syhanhcbq@gmail.com<br/>
 > dob: 05/27/2002<br/>
 - 📫 Contact:
