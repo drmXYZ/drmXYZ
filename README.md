@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m drm
-- 
 > fullname: VUONG SY HANH
 > 
 > address: Quoc Oai, Hanoi, Vietnam
