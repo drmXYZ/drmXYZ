@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m drm
+- Information:<br/>
 > fullname: VUONG SY HANH<br/>
-> address: Bac Tu Liem, Hanoi, Vietnam.
-> tel: 0945550041 && 0965397196.
-> email: syhanhcbq@gmail.com.
-> dob: 05/27/2002.
+> address: Bac Tu Liem, Hanoi, Vietnam<br/>
+> tel: 0945550041 && 0965397196<br/>
+> email: syhanhcbq@gmail.com<br/>
+> dob: 05/27/2002<br/>
 - 📫 Contact:
 - FB: https://www.fb.me/vuongsyhanh
 <!---
